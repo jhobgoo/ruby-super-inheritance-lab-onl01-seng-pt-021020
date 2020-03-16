@@ -1,3 +1,4 @@
 class Student < ChattyStudent
   
+  
 end
