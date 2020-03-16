@@ -1,6 +1,8 @@
 class Student < ChattyStudent
   
   def hello
-    
+    super
+    puts "greeting phrase"
+  end
   
 end
